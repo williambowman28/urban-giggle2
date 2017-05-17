@@ -1,0 +1,18 @@
+{
+  "name": "urban-giggle2",
+  "description": "Online store Grand Opening of the69shop.com urban-giggle2 testing free shipping. Widggets and fiddgets lots to chooses from! ",
+  "scripts": {
+    "postdeploy": "http://the69shop.com",
+    "pr-predestroy": "http://kitcheninventions.weebly.com"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
